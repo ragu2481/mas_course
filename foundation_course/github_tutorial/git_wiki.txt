@@ -21,4 +21,6 @@
     cat > git_wiki.txt
     nano git_wiki.txt 
     history | grep git
+# usage of repositery
+get clone git@github.com:ragu2481/mas_course.git
 
